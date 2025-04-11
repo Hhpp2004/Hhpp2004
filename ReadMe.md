@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dev Back-End<br>Dev: java | C | SQL<br>Computer Engineering Student at IFTM,<br> and Member of @bugware-ej
+Dev Back-End<br>Dev: java | Docker | SpringBoot | C | SQL<br>Computer Engineering Student at IFTM,<br> and Member of @bugware-ej
 
 
 ## 🌐 Socials:
